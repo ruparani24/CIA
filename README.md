@@ -1,5 +1,7 @@
 # CIA
+![image](https://user-images.githubusercontent.com/122954429/213092293-5b1ff319-32ff-4ee7-87ba-35fc74f25180.png)
 
 
 
-According to this graph, this is a directed graph. According to the concept, the prims graph wont work on Directed Weighted Graph but in this scenario prims method works because in this graph while using prims method after E node the nodes doesnt go to D node which omits the -5 which satisfies the Prims Method
+
+This graph is directed. Conceptually, the prims graph won't function on a directed weighted network, but in this case, the prims method does work because in this graph, when using the prims method, the nodes don't go to the D node after E node, hence omitting the -5 and satisfying the Prims Method. In other cases, Prim's won't work.
